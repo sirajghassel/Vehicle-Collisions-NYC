@@ -1,2 +1,2 @@
 # Vehicle-Collisions-NYC
-Web app that analyzes vehicle collisions in NYC using Streamlit. 
+Web app that analyzes vehicle collisions in NYC using Streamlit library in Python.
